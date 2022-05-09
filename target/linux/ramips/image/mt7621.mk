@@ -886,7 +886,7 @@ define Device/xiaomi_mir3g-v2
   DEVICE_MODEL := Mi Router 3G
   DEVICE_VARIANT := v2
   DEVICE_ALT0_VENDOR := Xiaomi
-  DEVICE_ALT0_MODEL := Mi Router 3G4A
+  DEVICE_ALT0_MODEL := Mi Router 3G
   DEVICE_ALT0_VARIANT := Gigabit Edition
   DEVICE_PACKAGES := kmod-mt7603 kmod-mt76x2 wpad-openssl
 endef
